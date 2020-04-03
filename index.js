@@ -6,5 +6,5 @@ dotenv.config()
 
 const bot = new Slackbot({
     token: `${process.env.BOT_TOKEN}`,
-    name: 'gisilberhartApp'
+    name: 'gilApp'
 })
